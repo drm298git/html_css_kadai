@@ -2,7 +2,6 @@
 
 html {
     -webkit-text-size-adjust: 100%;
-    -webkit-locale: "ja";
 }
 
 html {
@@ -682,7 +681,7 @@ main {
         }
     }
 
-    .FirstView__container {
+    .FirstView_container {
         max-width: 1140px;
         padding-left: 50px;
         padding-right: 50px;
